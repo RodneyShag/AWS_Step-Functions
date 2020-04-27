@@ -11,15 +11,15 @@
 
 ### Sequential Steps
 
-![Sequential Steps](./images/sequentialSteps.png)
+![Sequential Steps](./images/sequential_steps.png)
 
 ### Branching Steps
 
-![Branching Steps](./images/branchingSteps.png)
+![Branching Steps](./images/branching_steps.png)
 
 ### Parallel Steps
 
-![Parallel Steps](./images/parallelSteps.png)
+![Parallel Steps](./images/parallel_steps.png)
 
 ### YouTube Tutorials
 
