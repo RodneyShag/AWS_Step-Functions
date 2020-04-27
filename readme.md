@@ -2,26 +2,26 @@
     <img src="images/step-functions_logo.png">
 </p>
 
-### Overview
+## Overview
 
 - provides a graphical console to arrange and visualize the components of your application as a series of steps
 - triggers and tracks each step
 - retries on errors
 - logs the state of each step
 
-### Sequential Steps
+## Sequential Steps
 
 ![Sequential Steps](./images/sequential_steps.png)
 
-### Branching Steps
+## Branching Steps
 
 ![Branching Steps](./images/branching_steps.png)
 
-### Parallel Steps
+## Parallel Steps
 
 ![Parallel Steps](./images/parallel_steps.png)
 
-### YouTube Tutorials
+## YouTube Tutorials
 
 - [Step Functions with Lambda](https://www.youtube.com/watch?v=s0XFX3WHg0w)
 - [What are AWS Step Functions?](https://www.youtube.com/watch?v=zCIpWFYDJ8s)
