@@ -1,15 +1,23 @@
-Step Functions allow you to visualize and test your serverless applications.
+<p align="center">
+    <img src="images/step-functions_logo.png">
+</p>
 
-### Step Function Uses
+### Overview
 
 - provides a graphical console to arrange and visualize the components of your application as a series of steps
 - triggers and tracks each step
 - retries on errors
 - logs the state of each step
 
+### Sequential Steps
+
 ![Sequential Steps](./images/sequentialSteps.png)
 
+### Branching Steps
+
 ![Branching Steps](./images/branchingSteps.png)
+
+### Parallel Steps
 
 ![Parallel Steps](./images/parallelSteps.png)
 
